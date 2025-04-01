@@ -22,8 +22,8 @@ In the intergrated terminal, run the command py order_system.py.
 ## Usage
  The repo is free to use as a reference for apps of this type.
  ![incorrect-menu-options](images/python-terminal-menu.png)
- md![incorrect-menu-options](images/python-terminal-receipt.png)
- md![incorrect-menu-options](images/incorrect-menu-options.png)
+ ![incorrect-menu-options](images/python-terminal-receipt.png)
+ ![incorrect-menu-options](images/incorrect-menu-options.png)
 
 ## License
 
